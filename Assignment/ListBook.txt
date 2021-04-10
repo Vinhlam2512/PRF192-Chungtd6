@@ -1,0 +1,4 @@
+Number of books 2
+
+
+Code                           Title                    Quantity           Price        Value  a1                             b                        1                  1.0          1.0    a2                             a                        2                  2.0          4.0    
